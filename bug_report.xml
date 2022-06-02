@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+- 
+<root>
+	<Reporter>Volkova Ksenia</Reporter>
+	<Bug_ID>547NB</Bug_ID>
+	<Title>The "SAVE"  buttom is smaller than the others</Title>
+	<Severity>trivial</Severity>
+	<Priority>low</Priority>
+	<Envirronment>SAMSUNG GALAXY NOTE 10 +, ANDROID 11</Envirronment>
+	<AR>The "SAVE"  buttom is smaller than the others</AR>
+	<ER>The application buttons have one view</ER>
+	<Attachments>screenshot</Attachments>
+</root>
