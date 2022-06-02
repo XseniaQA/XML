@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+- 
+<root>
+	<preferences count="5">
+		<film>Пятый элемент</film>
+		<serial>Ходячие мертвецы</serial>
+		<food>Стейк из конины и овощи-гриль</food>
+		<season>Лето</season>
+		<country>Доминиканская республика</country>
+	</preferences>
+</root>
